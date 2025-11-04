@@ -1,0 +1,14 @@
+Algoritma enghitung luas & keliling lingkaran:
+
+1. Mulai
+2. Menghitung luas lingkaran
+3. Ukur jari-jari lingkaran dari tengah lingkaran hingga tepi lingkaran
+4. kemudian ukuran jari-jari lingkaran tersebut dimasukan dalam rumus menghitung luas lingkarab
+5. hitung rumus luas lingkaran dengan mengkalikan phi dengan jari-jari lingkaran kemudian dikalikan lagi dengan jari-jari lingkaran
+6. setelah menghitung rumus tersebut akan didapati nilai luas lingkaran tersebut
+7. menghitung keliling lingkaran
+8. ambil kembali nilai jari-jari lingkaran sebelumnya
+9. kemudian ukuran jari-jari lingkaran tersebut dimasukan dalam rumus menghitung keliling lingkaran
+10. hitung rumus keliling lingkaran dengan mengkalikan 2 dengan phi kemudian dikalikan lagi dengan jari-jari lingkaran
+11. setelah menghitung rumus tersebut akan didapati nilai keliling lingkaran tersebut
+12. selesai

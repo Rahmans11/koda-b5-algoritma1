@@ -3,7 +3,7 @@ menentukan nilai x apakah bilangan ganjil atau genap:
 1. mulai
 2. hitung nilai x yg ingin ditentukan
 3. masukan nilai x sebagai x
-4. bagi nilai x dengan 2
-5. jika nilai x bisa dibagi 2 atau hasilnya tidak menjadi pecahan, maka x adalah bilangan genap
-6. jika nilai x tidak bisa dibagi 2 atau hasilnya menjadi pecahan, maka x adalah bilangan ganjil
+4. bagi x dengan 2
+5. jika x bisa dibagi 2 atau hasilnya tidak menjadi pecahan, maka x adalah bilangan genap
+6. jika x tidak bisa dibagi 2 atau hasilnya menjadi pecahan, maka x adalah bilangan ganjil
 7. selesai
